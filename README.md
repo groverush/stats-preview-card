@@ -35,7 +35,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### What I learn
 
-In this challenge I decided to do it using tailwindcss and react to practice with these frameworks.
+For this challenge I decided to use tailwind css and react to practice with these frameworks.
 
 ### Continued development
 
